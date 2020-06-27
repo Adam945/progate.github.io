@@ -1,0 +1,29 @@
+*{
+margin:0; padding:0;
+}
+body {
+  background: silver;
+  font-family: arial;
+.menu ul li a, content, #footer p {
+  padding: 10px;
+ }
+ h1 {
+ color: blue;
+ font-weight: bold;
+ }
+.menu {
+  background: black;}
+.menu ul li {
+  color: white; font-weight: bold; display: inline-block; padding: 15px; }
+.menu ul li a {
+  color: white; text-decoration: none; text-transform: uppercase; }
+.menu ul li a:hover {
+  color: red; }
+.content h1 {
+  margin-bottom: 10px; }
+ footer {
+  background: white; }
+ footer p {
+  color: black; text-align: center; padding: 5px 0; }
+  
+
